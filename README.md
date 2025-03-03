@@ -8,14 +8,21 @@ Example:
 20 7 (Columns, Rows)
 18 0 (Ending Coordinate)
 12 6 (Starting Coordinate)
+
 xxxxxxxxxxxxxxxxxx x
 
 x     x       xxxx x
+
 x xxxxx xxxxx   xx x
+
 x xxxxx xxxxxxx xx x
+
 x            xx xx x
+
 x xxxxxxxxxx xx    x
+
 xxxxxxxxxxxx xxxxxxx
+
 
 Output:
 
