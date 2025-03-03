@@ -9,6 +9,7 @@ Example:
 18 0 (Ending Coordinate)
 12 6 (Starting Coordinate)
 xxxxxxxxxxxxxxxxxx x
+
 x     x       xxxx x
 x xxxxx xxxxx   xx x
 x xxxxx xxxxxxx xx x
